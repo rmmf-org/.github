@@ -67,7 +67,7 @@ Or use the form on our [Contact page](https://www.roubenmalianmemorial.org/conta
 **Rouben Malian Memorial Foundation Inc.** · 1 Rockefeller Plaza, Level 15 · New York, NY 10020 · United States
 
 [About us](https://www.roubenmalianmemorial.org/about) ·
-[Initiatives](https://www.roubenmalianmemorial.org/initiatives) ·
+[Initiatives](https://www.roubenmalianmemorial.org/programs) ·
 [Our impact](https://www.roubenmalianmemorial.org/impact) ·
 [Legal disclosures](https://www.roubenmalianmemorial.org/disclosures) ·
 [Privacy](https://www.roubenmalianmemorial.org/privacy) ·
