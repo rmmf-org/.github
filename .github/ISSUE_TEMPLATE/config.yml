@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Rouben Malian Memorial Foundation website
+    url: https://www.roubenmalianmemorial.org
+    about: Learn about the Foundation and its initiatives.
+  - name: Contact the Foundation
+    url: https://www.roubenmalianmemorial.org/contact
+    about: General questions, partnerships, donations and media enquiries. Please report security issues privately here, not in a public issue.

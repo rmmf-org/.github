@@ -1,0 +1,26 @@
+name: Task
+description: A specific, well-scoped piece of work (chore, docs, refactor, release step).
+title: "Task: "
+type: Task
+body:
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Why this work is needed, with links to related issues, PRs or docs.
+    validations:
+      required: true
+  - type: textarea
+    id: todo
+    attributes:
+      label: What needs to be done
+      value: |
+        - [ ] 
+        - [ ] 
+    validations:
+      required: true
+  - type: textarea
+    id: done
+    attributes:
+      label: Definition of done
+      description: The observable result when this task is complete.

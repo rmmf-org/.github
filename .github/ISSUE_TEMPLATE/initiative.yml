@@ -1,0 +1,39 @@
+name: Initiative
+description: A portfolio-level outcome spanning a quarter or more; parent of Epics.
+title: "Initiative: "
+type: Initiative
+body:
+  - type: markdown
+    attributes:
+      value: |
+        An Initiative is a portfolio-level outcome. Break it down into **Epics** and add them as sub-issues.
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Outcome
+      description: The change in the world this Initiative is meant to achieve.
+    validations:
+      required: true
+  - type: textarea
+    id: why-now
+    attributes:
+      label: Why now
+      description: Why this matters this quarter, and what happens if we wait.
+    validations:
+      required: true
+  - type: textarea
+    id: metrics
+    attributes:
+      label: Success metrics
+      description: Measurable signals that the outcome has been reached.
+      value: |
+        - 
+    validations:
+      required: true
+  - type: input
+    id: target-quarter
+    attributes:
+      label: Target quarter
+      placeholder: "e.g. 2027 Q1"
+    validations:
+      required: true
