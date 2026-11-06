@@ -35,6 +35,7 @@ profile/README.md                   the organization profile shown on github.com
 .github/ISSUE_TEMPLATE/initiative.yml  Initiative form (type Initiative)
 .github/ISSUE_TEMPLATE/config.yml   blank issues allowed; contact links
 .github/pull_request_template.md    default pull request template
+SECURITY.md                         organization security policy (the default for every repository)
 README.md                           this file
 ```
 
@@ -71,7 +72,7 @@ Organization-wide work is tracked on the [Rouben Malian Memorial Foundation · F
 
 ## Security
 
-Please do not report a vulnerability in a public issue. Use the [contact page](https://www.roubenmalianmemorial.org/contact) or email **support@roubenmalianmemorial.org**. TODO(confirm): a dedicated vulnerability-reporting address is pending in [rmmf-org/roubenmalianmemorial-org#128](https://github.com/rmmf-org/roubenmalianmemorial-org/issues/128), and an organization `SECURITY.md` in this repository is tracked in [#4](https://github.com/rmmf-org/.github/issues/4).
+Please do not report a vulnerability in a public issue. Use the [contact page](https://www.roubenmalianmemorial.org/contact) or email **support@roubenmalianmemorial.org**. The organization security policy, which applies to every repository here, is [SECURITY.md](SECURITY.md): supported versions, how to report, the 5-business-day response target and safe harbor.
 
 ## License / ownership
 
