@@ -2,6 +2,8 @@
 
 **Honoring a legacy. Investing in what people can become.**
 
+[Website](https://www.roubenmalianmemorial.org) · [Our work](https://www.roubenmalianmemorial.org/programs) · Portfolio project: TODO(confirm) — link the "Rouben Malian Memorial Foundation" portfolio project once it exists · [Contact](https://www.roubenmalianmemorial.org/contact)
+
 Potential is universal. Opportunity is not. The Rouben Malian Memorial Foundation exists to close the distance between
 the two.
 
@@ -49,6 +51,29 @@ University, which selects scholars through a joint panel.
 The Foundation's programs sit in three pillars: **community engagement and education**, **vocational training and
 career success**, and **health and family wellness**, across the United States, Armenia and Australia.
 [Our work](https://www.roubenmalianmemorial.org/programs)
+
+## What we build
+
+The Foundation's initiatives are built and run in this organization. Most repositories are private; the live sites and apps are public.
+
+| Product | What it is | Live | Repositories |
+|---|---|---|---|
+| Foundation website | The Foundation's website, with the contact form and journal | [roubenmalianmemorial.org](https://www.roubenmalianmemorial.org) | `roubenmalianmemorial-org`, `roubenmalianmemorial-apex-redirect` |
+| Admit Path | Evidence-based educational guidance from age eleven to eighty and beyond | [admitpath.org](https://www.admitpath.org) | `admitpath-org` (site and API), `admitpath-app` (iPhone, iPad, Apple TV) |
+| R.G. Menzies Scholarship to Harvard Alumni Group | The Alumni Group's digital home and Scholar Network | [rgmenziesharvard.org](https://www.rgmenziesharvard.org) | `rgmenziesharvard-org` |
+| Golden Hint | Where charities trade skills hour for hour, with a guide to starting a US nonprofit | [goldenhint.org](https://goldenhint.org) | `goldenhint-com` (site, API, MCP server), `goldenhint-app` (iPhone, iPad, Apple Watch, Android) |
+| Charlie | A story game about a mini Australian Shepherd on Park Avenue | [charlie.roubenmalianmemorial.org](https://charlie.roubenmalianmemorial.org) | `charlie` |
+| Bonluma | A free, offline, inclusive match-3 game in English, Eastern Armenian and Persian | TODO(confirm) | `bonluma-app` |
+
+<!-- TODO(confirm): whether Pawprint (aibo-app) and AAM Member (AAMMembership) should be listed publicly here. -->
+
+## How we work
+
+- **Issues** use the organization's issue forms: Bug, Feature, Task, Epic and Initiative. Each sets an issue type.
+- **Hierarchy:** Initiative (a portfolio-level outcome over a quarter or more) > Epic (a shippable body of work) > Feature, Task or Bug, linked as sub-issues. Blocking work is recorded as issue dependencies.
+- **Project boards:** every product has a GitHub Project ("Rouben Malian Memorial Foundation · <Product>") with Status (Backlog, Ready, In progress, In review, Done), Priority (P0–P3), Size (XS–XL) and two-week iterations.
+- **Pull requests** follow the pull request template and close their issue with "Closes #n".
+- **Security:** please report vulnerabilities privately to [support@roubenmalianmemorial.org](mailto:support@roubenmalianmemorial.org), not in a public issue.
 
 ## Get in touch
 
