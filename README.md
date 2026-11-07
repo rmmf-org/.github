@@ -2,7 +2,7 @@
 
 Organization profile for the Rouben Malian Memorial Foundation, with the default issue forms and pull request template for every rmmf-org repository.
 
-> Part of the Rouben Malian Memorial Foundation portfolio · Project board: [Rouben Malian Memorial Foundation · Foundation Website](https://github.com/orgs/rmmf-org/projects/1) · Initiative: [rmmf-org/roubenmalianmemorial-org#148](https://github.com/rmmf-org/roubenmalianmemorial-org/issues/148)
+> Part of the Rouben Malian Memorial Foundation portfolio · Initiative: [rmmf-org/roubenmalianmemorial-org#148](https://github.com/rmmf-org/roubenmalianmemorial-org/issues/148)
 
 ## Overview
 
@@ -57,7 +57,7 @@ Changes take effect as soon as they reach the default branch `main`: the profile
 
 ## Project management
 
-Organization-wide work is tracked on the [Rouben Malian Memorial Foundation · Foundation Website](https://github.com/orgs/rmmf-org/projects/1) project.
+Organization-wide work is tracked on the Rouben Malian Memorial Foundation · Foundation Website project (visible to organization members).
 
 - **Hierarchy:** Initiative ([rmmf-org/roubenmalianmemorial-org#148](https://github.com/rmmf-org/roubenmalianmemorial-org/issues/148)) > Epic (repository and documentation work sits under [Reliability, security and developer experience](https://github.com/rmmf-org/roubenmalianmemorial-org/issues/149)) > Feature / Task / Bug, using organization issue types and sub-issues.
 - **Issue forms:** the Bug, Feature, Task, Epic and Initiative forms in this repository.

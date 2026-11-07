@@ -2,7 +2,7 @@
 
 **Honoring a legacy. Investing in what people can become.**
 
-[Website](https://www.roubenmalianmemorial.org) · [Our work](https://www.roubenmalianmemorial.org/programs) · [Portfolio project](https://github.com/orgs/rmmf-org/projects/8) · [Contact](https://www.roubenmalianmemorial.org/contact)
+[Website](https://www.roubenmalianmemorial.org) · [Our work](https://www.roubenmalianmemorial.org/programs) · [Contact](https://www.roubenmalianmemorial.org/contact)
 
 Potential is universal. Opportunity is not. The Rouben Malian Memorial Foundation exists to close the distance between
 the two.
